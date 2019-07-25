@@ -1,7 +1,7 @@
 # Here is described test tasks for a android dev.
 
 Need to implement three screens: create PIN code screen, authentication by PIN code screen and menu screen.
-PIN code is sequence of integer.
+PIN code is sequence of integers. PIN code length is 4 digits.
 
 ## Create PIN code screen
 Create PIN code screen should give ability for user to create (set) own PIN code.
